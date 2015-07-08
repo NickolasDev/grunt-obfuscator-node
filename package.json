@@ -1,7 +1,7 @@
 {
   "name": "grunt-obfuscator-node",
   "description": "Obfuscate nodejs projects via Grunt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/NickolasDev/grunt-obfuscator-node",
   "author": {
     "name": "Nickolas"
@@ -44,6 +44,6 @@
   ],
   "dependencies": {
     "lodash": "3.10.0",
-    "obfuscator": "0.5.2"
+    "uglify-js": "2.4.23"
   }
 }
